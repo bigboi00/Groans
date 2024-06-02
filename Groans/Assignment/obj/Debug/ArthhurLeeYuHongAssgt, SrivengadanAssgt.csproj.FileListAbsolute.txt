@@ -1,0 +1,28 @@
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\bin\Debug\Assignment.exe
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\ArthhurLeeYuHongAssgt, SrivengadanAssgt.csproj.AssemblyReference.cache
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Main.resources
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Menu.resources
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Name_Form.resources
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Goal_Form.resources
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Guide.resources
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\ArthhurLeeYuHongAssgt, SrivengadanAssgt.csproj.GenerateResource.cache
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\ArthhurLeeYuHongAssgt, SrivengadanAssgt.csproj.CoreCompileInputs.cache
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.exe
+C:\Users\Arthhur Lee\source\repos\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.pdb
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\bin\Debug\Assignment.exe
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\bin\Debug\Assignment.pdb
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\ArthhurLeeYuHongAssgt, SrivengadanAssgt.csproj.AssemblyReference.cache
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Main.resources
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Menu.resources
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Name_Form.resources
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Goal_Form.resources
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Guide.resources
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\ArthhurLeeYuHongAssgt, SrivengadanAssgt.csproj.GenerateResource.cache
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\ArthhurLeeYuHongAssgt, SrivengadanAssgt.csproj.CoreCompileInputs.cache
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.exe
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\ArthhurLeeYuHongAssgt, SrivengadanAssgt\Assignment\obj\Debug\Assignment.pdb
